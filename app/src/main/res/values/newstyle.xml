@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Style for Text -->
+    <style name="NewStyleText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <!--Style for TextView -->
+    <style name="NewStyleTv">
+        ​​​​​​​​
+        <item name="android:colorBackground">#BBDEFB</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <!--Style for Button-->
+    <style name="NewStyleBtn">
+        ​​​​​​​​
+        <item name="android:colorBackground">@android:color/holo_orange_dark</item>
+        ​​​​​​​​​<item name="android:buttonStyle">@android:color/holo_orange_dark</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+</resources>
